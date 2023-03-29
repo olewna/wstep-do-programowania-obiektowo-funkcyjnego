@@ -1,0 +1,2 @@
+biblioteka do testowania javy:
+import org.junit.Test
